@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=pinephone-screen-off
+NoDisplay=false
+Exec=/usr/bin/ppso
+Terminal=false
+Type=Application
